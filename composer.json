@@ -1,0 +1,17 @@
+{
+  "name": "yii2/Sclad",
+  "description": "Yii 2 pure",
+  "type": "project",
+   "repositories": [
+    {
+      "type": "composer",
+      "url": "https://asset-packagist.org"
+    }
+  ],
+  "require": {
+    "yiisoft/yii2": "^2.0",
+    "doctrine/orm": "^2.6.2",
+    "symfony/yaml": "2.*",
+    "yiisoft/yii2-bootstrap": "^2.0"
+  }
+}
