@@ -1,5 +1,5 @@
 {
-  "name": "yii2/Sclad",
+  "name": "yii2/sclad",
   "description": "Yii 2 pure",
   "type": "project",
    "repositories": [
@@ -12,6 +12,8 @@
     "yiisoft/yii2": "^2.0",
     "doctrine/orm": "^2.6.2",
     "symfony/yaml": "2.*",
-    "yiisoft/yii2-bootstrap": "^2.0"
+    "yiisoft/yii2-bootstrap": "^2.0",
+    "kartik-v/yii2-date-range": "dev-master"
   }
+
 }
