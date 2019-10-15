@@ -1,5 +1,6 @@
 ## Installation
 clone repositary 
+
 /config/db.php  add valid settings 
 
  composer install 
